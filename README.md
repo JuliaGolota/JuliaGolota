@@ -1,4 +1,7 @@
-## Hi there 👋
+#### Welcome to my Github profile!
+
+[![Codwears badge](https://www.codewars.com/users/JuliaGolota/badges/micro)](https://www.codewars.com/users/JuliaGolota)
+
 
 <!--
 **JuliaGolota/JuliaGolota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
